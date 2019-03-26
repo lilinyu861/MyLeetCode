@@ -1,4 +1,4 @@
-package com.lily;
+package com.lily.leetcode;
 
 import javax.print.DocFlavor;
 import java.util.List;
