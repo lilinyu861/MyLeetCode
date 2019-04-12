@@ -5,27 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MedianofTwoSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/BubbleSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/HeapSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/InsertSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/MergeSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/SelectionSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/sort/ShellSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/loseWeight/Metabolism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/LeetCode.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/AddTwoNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/AddTwoNumbers.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/LongestSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/LongestSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/MultiplyStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MultiplyStrings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/TwoSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/AddTwoNumbers$ListNode.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/AddTwoNumbers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/LongestSubstring.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/MultiplyStrings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/TwoSum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/sort/InsertSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,36 +25,44 @@
     <session id="1566254686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="8" />
+          <entry key="project.closed" value="15" />
           <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.32" value="1" />
-          <entry key="project.open.time.34" value="1" />
+          <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="2" />
+          <entry key="project.open.time.37" value="1" />
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.41" value="1" />
+          <entry key="project.open.time.433" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="9" />
+          <entry key="project.open.time.8" value="2" />
+          <entry key="project.opened" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="36" />
+          <entry key="java" value="43" />
+          <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="36" />
+          <entry key="JAVA" value="43" />
+          <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="10383" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="13832" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="10383" />
+          <entry key="JAVA" value="13832" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
     </session>
@@ -79,19 +70,22 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/InsertSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
+            <state relative-caret-position="119">
+              <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/HeapSort.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/loseWeight/Metabolism.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="570">
-              <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+            <state relative-caret-position="101">
+              <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -99,17 +93,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="93">
-              <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+            <state relative-caret-position="68">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/InsertSort.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/SelectionSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+            <state relative-caret-position="170">
+              <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -132,6 +126,7 @@
     </replaceStrings>
     <dirStrings>
       <dir>D:\githublily\MyLeetCode\LeetCode\src\com\lily</dir>
+      <dir>D:\githublily\MyLeetCode\LeetCode\src</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -157,6 +152,10 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/sort/HeapSort.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/sort/InsertSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/test01.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/loseWeight/BMI.java" />
+        <option value="$PROJECT_DIR$/.idea/encodings.xml" />
+        <option value="$PROJECT_DIR$/LeetCode/src/loseWeight/Metabolism.java" />
       </list>
     </option>
   </component>
@@ -167,17 +166,16 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-48" />
-    <option name="y" value="66" />
-    <option name="width" value="1947" />
-    <option name="height" value="1107" />
+    <option name="x" value="294" />
+    <option name="y" value="99" />
+    <option name="width" value="1623" />
+    <option name="height" value="918" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -189,6 +187,11 @@
             <path>
               <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name=".idea" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -209,17 +212,50 @@
               <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="lily" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
+              <item name="loseWeight" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="extractors" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="schema" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -228,20 +264,20 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553566391296" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553782196602" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LeetCode/src/com/test/lily" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -268,7 +304,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.InsertSort">
+  <component name="RunManager" selected="Application.Metabolism">
     <configuration name="HeapSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lily.sort.HeapSort" />
       <module name="LeetCode" />
@@ -295,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.sort.MergeSort" />
+    <configuration name="Metabolism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="loseWeight.Metabolism" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.sort.*" />
+          <option name="PATTERN" value="loseWeight.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -321,12 +357,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.sort.ShellSort1" />
+    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.test01" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.sort.*" />
+          <option name="PATTERN" value="com.lily.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,19 +371,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ShellSort1" />
-      <item itemvalue="Application.MergeSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.HeapSort" />
       <item itemvalue="Application.InsertSort" />
+      <item itemvalue="Application.test01" />
+      <item itemvalue="Application.Metabolism" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Metabolism" />
+        <item itemvalue="Application.test01" />
         <item itemvalue="Application.InsertSort" />
         <item itemvalue="Application.HeapSort" />
         <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.MergeSort" />
-        <item itemvalue="Application.ShellSort1" />
       </list>
     </recent_temporary>
   </component>
@@ -369,7 +405,13 @@
       <workItem from="1553246569344" duration="991000" />
       <workItem from="1553426128394" duration="434000" />
       <workItem from="1553426605905" duration="1609000" />
-      <workItem from="1553492531675" duration="13236000" />
+      <workItem from="1553492531675" duration="14023000" />
+      <workItem from="1553683201420" duration="6511000" />
+      <workItem from="1553759197393" duration="39000" />
+      <workItem from="1553759412895" duration="515000" />
+      <workItem from="1553759951138" duration="348000" />
+      <workItem from="1553760323140" duration="7079000" />
+      <workItem from="1554513137488" duration="348000" />
     </task>
     <servers />
   </component>
@@ -379,13 +421,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="45153000" />
+    <option name="totallyTimeSpent" value="60780000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.283751" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3031528" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -394,7 +435,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" weight="0.32890365" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4987874" weight="0.26245847" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -402,7 +443,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4995958" visible="true" weight="0.32890365" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.4995958" visible="true" weight="0.410299" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012126" side_tool="true" weight="0.32890365" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32890365" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -437,9 +478,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -447,9 +485,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -457,9 +492,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
           <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -481,30 +513,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-114">
           <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/ShellSort1.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="22" column="41" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/ShellSort1.java" />
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/MergeSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
           <caret line="6" column="39" lean-forward="true" selection-start-line="6" selection-start-column="39" selection-end-line="6" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" column="27" lean-forward="true" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
         </state>
       </provider>
     </entry>
@@ -515,31 +531,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/SelectionSort.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="6" column="37" lean-forward="true" selection-start-line="6" selection-start-column="37" selection-end-line="6" selection-end-column="37" />
+        <state relative-caret-position="532">
+          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="570">
-          <caret line="33" column="42" lean-forward="true" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        <state relative-caret-position="148">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/BubbleSort.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/test01.java" />
+    <entry file="file://$PROJECT_DIR$/.idea/misc.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/encodings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="93">
-          <caret line="7" column="40" lean-forward="true" selection-start-line="7" selection-start-column="40" selection-end-line="7" selection-end-column="40" />
+        <state relative-caret-position="114">
+          <caret line="6" column="10" lean-forward="true" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/InsertSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        <state relative-caret-position="119">
+          <caret line="7" column="39" selection-start-line="7" selection-start-column="39" selection-end-line="7" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/sort/SelectionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/loseWeight/Metabolism.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="101">
+          <caret line="35" column="35" selection-start-line="35" selection-start-column="35" selection-end-line="35" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
