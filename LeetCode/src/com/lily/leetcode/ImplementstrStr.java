@@ -18,8 +18,8 @@ public class ImplementstrStr {
     }
 
     public static void main(String[] args){
-        String haystack = "a";
-        String needle = "a";
+        String haystack = "hello";
+        String needle = "ll";
         int result = strStr(haystack, needle);
         System.out.println(result);
     }
