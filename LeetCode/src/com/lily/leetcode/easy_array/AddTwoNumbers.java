@@ -1,4 +1,4 @@
-package com.lily.leetcode;
+package com.lily.leetcode.easy_array;
 
 import javax.print.DocFlavor;
 import java.util.List;

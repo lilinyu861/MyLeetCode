@@ -1,4 +1,4 @@
-package com.lily.leetcode;
+package com.lily.leetcode.easy_array;
 
 /**
  * The count-and-say sequence is the sequence of integers with the first five terms as following:

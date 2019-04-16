@@ -1,4 +1,4 @@
-package com.lily.sort;
+package com.lily.leetcode.sort;
 
 import java.util.Arrays;
 

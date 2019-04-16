@@ -1,4 +1,4 @@
-package com.lily.leetcode;
+package com.lily.leetcode.easy_array;
 
 /**
  *Given an integer array nums,

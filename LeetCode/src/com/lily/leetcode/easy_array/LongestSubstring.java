@@ -6,7 +6,7 @@
  *      若字符已经在map中，则回到map中移除数据，从头开始移除。
  *      比较完成之后最后的结果时hashMap和set相比的最大值。
  */
-package com.lily.leetcode;
+package com.lily.leetcode.easy_array;
 
 import java.util.HashMap;
 import java.util.Map;

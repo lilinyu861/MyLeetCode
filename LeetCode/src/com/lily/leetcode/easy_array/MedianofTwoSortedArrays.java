@@ -8,7 +8,7 @@
  * 第二种方法：找两个已排序的中位数，其实可以看成找第k个小的数字，使用二分法。
  *
  */
-package com.lily.leetcode;
+package com.lily.leetcode.easy_array;
 
 public class MedianofTwoSortedArrays {
     /* 方法一：暴力求解
