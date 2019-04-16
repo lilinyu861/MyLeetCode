@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/CountandSay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MaxSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/ImplementstrStr.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/ImplementstrStr.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -24,13 +24,13 @@
     <session id="1566254686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="18" />
+          <entry key="project.closed" value="19" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.31" value="1" />
-          <entry key="project.open.time.32" value="1" />
+          <entry key="project.open.time.32" value="2" />
           <entry key="project.open.time.33" value="1" />
           <entry key="project.open.time.34" value="2" />
           <entry key="project.open.time.35" value="2" />
@@ -41,32 +41,32 @@
           <entry key="project.open.time.433" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="19" />
+          <entry key="project.opened" value="20" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="48" />
+          <entry key="java" value="50" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="48" />
+          <entry key="JAVA" value="50" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="12" />
-          <entry key="java" value="15050" />
+          <entry key="java" value="16188" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15050" />
+          <entry key="JAVA" value="16188" />
           <entry key="PLAIN_TEXT" value="12" />
         </counts>
       </usages-collector>
@@ -95,8 +95,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/TwoSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="510">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -105,19 +105,41 @@
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/ImplementstrStr.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="170">
-              <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+              <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/CountandSay.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="289">
+              <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+              <folding>
+                <element signature="e#403#404#0" expanded="true" />
+                <element signature="e#427#428#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MaxSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="153">
+              <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -173,6 +195,8 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/ImplementstrStr.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/searchInsertPosition.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/CountandSay.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MaxSubarray.java" />
       </list>
     </option>
   </component>
@@ -183,17 +207,17 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="949" />
-    <option name="width" value="980" />
-    <option name="height" value="1091" />
+    <option name="x" value="948" />
+    <option name="width" value="981" />
+    <option name="height" value="1092" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -239,7 +263,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555316486175" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555400319868" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -279,7 +303,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.SearchInsertPosition">
+  <component name="RunManager" selected="Application.MaxSubarray">
+    <configuration name="CountandSay" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.CountandSay" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lily.leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ImplementstrStr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.ImplementstrStr" />
       <module name="LeetCode" />
@@ -293,12 +330,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="InsertSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.sort.InsertSort" />
+    <configuration name="MaxSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.MaxSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.sort.*" />
+          <option name="PATTERN" value="com.lily.leetcode.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,33 +369,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.test01" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lily.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.InsertSort" />
-      <item itemvalue="Application.test01" />
       <item itemvalue="Application.Metabolism" />
       <item itemvalue="Application.ImplementstrStr" />
       <item itemvalue="Application.SearchInsertPosition" />
+      <item itemvalue="Application.CountandSay" />
+      <item itemvalue="Application.MaxSubarray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxSubarray" />
+        <item itemvalue="Application.CountandSay" />
         <item itemvalue="Application.SearchInsertPosition" />
         <item itemvalue="Application.ImplementstrStr" />
         <item itemvalue="Application.Metabolism" />
-        <item itemvalue="Application.test01" />
-        <item itemvalue="Application.InsertSort" />
       </list>
     </recent_temporary>
   </component>
@@ -390,7 +414,8 @@
       <workItem from="1555053171176" duration="1762000" />
       <workItem from="1555072727227" duration="1217000" />
       <workItem from="1555146662299" duration="597000" />
-      <workItem from="1555308096543" duration="5255000" />
+      <workItem from="1555308096543" duration="8571000" />
+      <workItem from="1555396810660" duration="3096000" />
     </task>
     <servers />
   </component>
@@ -400,13 +425,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="69611000" />
+    <option name="totallyTimeSpent" value="76023000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08811641" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25464836" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -415,7 +440,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.26245847" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4987874" visible="true" weight="0.25747508" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -423,9 +448,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4995958" weight="0.34053156" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4995958" weight="0.34511784" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012126" side_tool="true" weight="0.32890365" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32890365" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32828283" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -562,25 +587,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/TwoSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="32" column="32" lean-forward="true" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="510">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/ImplementstrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
-          <caret line="10" column="25" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="30" column="18" lean-forward="true" selection-start-line="30" selection-start-column="18" selection-end-line="30" selection-end-column="18" />
+        <state relative-caret-position="510">
+          <caret line="31" column="31" selection-start-line="31" selection-start-column="31" selection-end-line="31" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/CountandSay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
+          <folding>
+            <element signature="e#403#404#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MaxSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
         </state>
       </provider>
     </entry>
