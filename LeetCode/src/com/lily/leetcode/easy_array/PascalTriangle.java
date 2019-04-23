@@ -41,7 +41,7 @@ public class PascalTriangle {
             return a;
         for(int i = 0; i<numRows; i++){
             List<Integer> row = new ArrayList<Integer>();
-            for(int j =0 ; j<i+1; j++){
+            for(int j =0 ; j<=i; j++){
                 if(j==0 || j==i){
                     row.add(1);
                 }
@@ -60,7 +60,7 @@ public class PascalTriangle {
         List<List<Integer>> result1 = new ArrayList<>();
         result = generate(n);
         result1 = generate1(n);
-//        System.out.println(result);
+        System.out.println(result);
         System.out.println(result1);
     }
 }
