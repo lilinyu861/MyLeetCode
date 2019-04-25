@@ -25,10 +25,32 @@ public class PascalTriangle2 {
         return row;
     }
 
+    // 计算每行的数据
+    private static List<Integer> getRow1(int rowIndex) {
+        List<List<Integer>> a = new ArrayList<List<Integer>>();
+        List<Integer> b = new ArrayList<>();
+        for(int i=0; i<=rowIndex; i++){
+            List<Integer> row = new ArrayList<>();
+            for(int j=0; j<=i; j++){
+                if(j==0 || j==i)
+                    row.add(1);
+                else{
+                    row.add(a.get(i-1).get(j-1)+a.get(i-1).get(j));
+                }
+            }
+            a.add(row);
+            b = row;
+        }
+        return b;
+    }
+
     public static void main(String[] args){
         int rowIndex = 3;
         List<Integer> result = new ArrayList<>();
+        List<Integer> result1 = new ArrayList<>();
         result = getRow(rowIndex);
+        result1 = getRow1(rowIndex);
         System.out.println(result);
+        System.out.println(result1);
     }
 }
