@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MissingNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MoveZeroes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ThirdMaximum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/ContainsDuplicate2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/ContainsDuplicate2.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,41 +63,80 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="73" />
+          <entry key="java" value="77" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="73" />
+          <entry key="JAVA" value="77" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="15" />
-          <entry key="java" value="27548" />
+          <entry key="dummy" value="16" />
+          <entry key="java" value="30739" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="27548" />
-          <entry key="PLAIN_TEXT" value="15" />
+          <entry key="JAVA" value="30739" />
+          <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="229">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate2.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="82">
               <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#702#720#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MissingNumber.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="283">
+              <caret line="34" column="19" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MoveZeroes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ThirdMaximum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="42">
+              <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -177,6 +219,10 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/RotateArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate2.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MissingNumber.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ThirdMaxmium.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ThirdMaximum.java" />
       </list>
     </option>
   </component>
@@ -187,9 +233,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="948" />
-    <option name="width" value="981" />
-    <option name="height" value="1092" />
+    <option name="x" value="-11" />
+    <option name="y" value="-11" />
+    <option name="width" value="980" />
+    <option name="height" value="1091" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -231,6 +278,14 @@
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="easy_array" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="sort" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -243,7 +298,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557470135051" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557475622385" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -286,20 +341,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ContainsDuplicate2">
-    <configuration name="BestTimeToBuyAndSellStockII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.BestTimeToBuyAndSellStockII" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lily.leetcode.easy_array.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.ThirdMaximum">
     <configuration name="ContainsDuplicate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ContainsDuplicate" />
       <module name="LeetCode" />
@@ -326,8 +368,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MajorityElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MajorityElement" />
+    <configuration name="MissingNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MissingNumber" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -339,8 +381,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RotateArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.RotateArray" />
+    <configuration name="MoveZeroes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MoveZeroes" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lily.leetcode.easy_array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ThirdMaximum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ThirdMaximum" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -353,19 +408,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.BestTimeToBuyAndSellStockII" />
-      <item itemvalue="Application.MajorityElement" />
-      <item itemvalue="Application.RotateArray" />
       <item itemvalue="Application.ContainsDuplicate" />
       <item itemvalue="Application.ContainsDuplicate2" />
+      <item itemvalue="Application.MissingNumber" />
+      <item itemvalue="Application.MoveZeroes" />
+      <item itemvalue="Application.ThirdMaximum" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ThirdMaximum" />
+        <item itemvalue="Application.MoveZeroes" />
+        <item itemvalue="Application.MissingNumber" />
         <item itemvalue="Application.ContainsDuplicate2" />
         <item itemvalue="Application.ContainsDuplicate" />
-        <item itemvalue="Application.RotateArray" />
-        <item itemvalue="Application.MajorityElement" />
-        <item itemvalue="Application.BestTimeToBuyAndSellStockII" />
       </list>
     </recent_temporary>
   </component>
@@ -405,7 +460,7 @@
       <workItem from="1557032779329" duration="2795000" />
       <workItem from="1557218978731" duration="2652000" />
       <workItem from="1557371017214" duration="8027000" />
-      <workItem from="1557463215573" duration="2756000" />
+      <workItem from="1557463215573" duration="8237000" />
     </task>
     <servers />
   </component>
@@ -415,7 +470,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="126846000" />
+    <option name="totallyTimeSpent" value="132327000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="735" extended-state="6" />
@@ -430,7 +485,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49555376" visible="true" weight="0.25415283" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49636218" visible="true" weight="0.25415283" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3986711" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -438,8 +493,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.4987874" weight="0.33887044" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5012126" side_tool="true" weight="0.33887044" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.33887044" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502021" side_tool="true" weight="0.33887044" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.32724252" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -672,13 +727,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="229">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-40">
@@ -699,11 +747,42 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ContainsDuplicate2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="82">
           <caret line="28" column="68" selection-start-line="28" selection-start-column="68" selection-end-line="28" selection-end-column="68" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#702#720#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MissingNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="283">
+          <caret line="34" column="19" lean-forward="true" selection-start-line="29" selection-start-column="8" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MoveZeroes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ThirdMaximum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="42">
+          <caret line="46" column="22" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
