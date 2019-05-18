@@ -20,6 +20,7 @@ import java.util.List;
  * Output:
  * [5,6]
  */
+
 public class FindAllNumbersDisappeared {
     private static List<Integer> findDisappearedNumbers(int[] nums) {
         List<Integer> result = new ArrayList<>();
