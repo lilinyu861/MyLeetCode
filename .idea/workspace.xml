@@ -5,13 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ArrayPartitionI.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FibonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/KdiffPairsInAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaxConsecutiveOnes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ReshapetheMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FindAllNumbersDisappeared.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FindAllNumbersDisappeared.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/FindAllNumbersDisappeared.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/FindAllNumbersDisappeared.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -42,7 +40,7 @@
     <session id="1566254686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="30" />
+          <entry key="project.closed" value="31" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
@@ -51,7 +49,7 @@
           <entry key="project.open.time.30" value="1" />
           <entry key="project.open.time.31" value="2" />
           <entry key="project.open.time.32" value="3" />
-          <entry key="project.open.time.33" value="2" />
+          <entry key="project.open.time.33" value="3" />
           <entry key="project.open.time.34" value="5" />
           <entry key="project.open.time.35" value="3" />
           <entry key="project.open.time.36" value="2" />
@@ -61,32 +59,34 @@
           <entry key="project.open.time.433" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="33" />
+          <entry key="project.opened" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="82" />
+          <entry key="java" value="86" />
+          <entry key="js" value="1" />
           <entry key="xml" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="82" />
+          <entry key="JAVA" value="86" />
+          <entry key="JavaScript" value="1" />
           <entry key="XML" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="33476" />
+          <entry key="java" value="36540" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="33476" />
+          <entry key="JAVA" value="36540" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
@@ -95,40 +95,28 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaxConsecutiveOnes.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="425">
-              <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+            <state relative-caret-position="357">
+              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FibonacciNumber.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="697">
-              <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/KdiffPairsInAnArray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="217">
-              <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+            <state relative-caret-position="148">
+              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ArrayPartitionI.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+            <state relative-caret-position="403">
+              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
             </state>
           </provider>
         </entry>
@@ -141,6 +129,7 @@
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit3 Test Class" />
         <option value="JUnit4 Test Class" />
+        <option value="JavaScript File" />
         <option value="Class" />
       </list>
     </option>
@@ -160,10 +149,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/TwoSum.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/AddTwoNumbers.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/MultiplyStrings.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/LongestSubstring.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/MedianofTwoSortedArrays.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/TwoSumTest.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/test/lily/TwoSumTest.java" />
@@ -210,6 +195,11 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FibonacciNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/KdiffPairsInAnArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ArrayPartitionI.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ReshapetheMatrix.java" />
+        <option value="$PROJECT_DIR$/JSlearn/test001.js" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java" />
       </list>
     </option>
   </component>
@@ -219,18 +209,17 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="853" />
-    <option name="y" value="75" />
-    <option name="width" value="818" />
-    <option name="height" value="910" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="905" />
+    <option name="y" value="2" />
+    <option name="width" value="978" />
+    <option name="height" value="1089" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -269,6 +258,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -277,7 +267,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558147775358" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558236699577" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -320,7 +310,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ArrayPartitionI">
+  <component name="RunManager" selected="Application.MaximumProductofThreeNumbers">
     <configuration name="ArrayPartitionI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ArrayPartitionI" />
       <module name="LeetCode" />
@@ -334,8 +324,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FibonacciNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.FibonacciNumber" />
+    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.CanPlaceFlowers" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -347,8 +337,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FindAllNumbersDisappeared" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.FindAllNumbersDisappeared" />
+    <configuration name="MaximumProductofThreeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MaximumProductofThreeNumbers" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -360,8 +350,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="KdiffPairsInAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.KdiffPairsInAnArray" />
+    <configuration name="ReshapetheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ReshapetheMatrix" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -373,8 +363,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MaxConsecutiveOnes" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MaxConsecutiveOnes" />
+    <configuration name="ShortestUnsortedContinuousSubarray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ShortestUnsortedContinuousSubarray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -387,19 +377,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FindAllNumbersDisappeared" />
-      <item itemvalue="Application.MaxConsecutiveOnes" />
-      <item itemvalue="Application.FibonacciNumber" />
-      <item itemvalue="Application.KdiffPairsInAnArray" />
       <item itemvalue="Application.ArrayPartitionI" />
+      <item itemvalue="Application.ReshapetheMatrix" />
+      <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
+      <item itemvalue="Application.CanPlaceFlowers" />
+      <item itemvalue="Application.MaximumProductofThreeNumbers" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaximumProductofThreeNumbers" />
+        <item itemvalue="Application.CanPlaceFlowers" />
+        <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
+        <item itemvalue="Application.ReshapetheMatrix" />
         <item itemvalue="Application.ArrayPartitionI" />
-        <item itemvalue="Application.KdiffPairsInAnArray" />
-        <item itemvalue="Application.FibonacciNumber" />
-        <item itemvalue="Application.MaxConsecutiveOnes" />
-        <item itemvalue="Application.FindAllNumbersDisappeared" />
       </list>
     </recent_temporary>
   </component>
@@ -445,7 +435,8 @@
       <workItem from="1557924561489" duration="3383000" />
       <workItem from="1557991113829" duration="2134000" />
       <workItem from="1558054465923" duration="7908000" />
-      <workItem from="1558145025568" duration="2558000" />
+      <workItem from="1558145025568" duration="5520000" />
+      <workItem from="1558228451522" duration="7391000" />
     </task>
     <servers />
   </component>
@@ -455,13 +446,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="150178000" />
+    <option name="totallyTimeSpent" value="160531000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14544237" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1769437" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -470,15 +461,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636218" visible="true" weight="0.2080537" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39730638" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636218" weight="0.20939597" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39597315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.3248322" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" visible="true" weight="0.32348993" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502021" side_tool="true" weight="0.33887044" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.3261745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -661,9 +652,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="13" column="3" selection-start-line="13" selection-start-column="3" selection-end-line="13" selection-end-column="3" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -706,9 +694,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="365">
           <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -765,9 +750,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -780,11 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/FibonacciNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="697">
+        <state relative-caret-position="176">
           <caret line="42" column="36" selection-start-line="42" selection-start-column="36" selection-end-line="42" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,10 +774,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/JSlearn/test001.js" />
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ReshapetheMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="31" column="10" lean-forward="true" selection-start-line="31" selection-start-column="10" selection-end-line="31" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ArrayPartitionI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="22" column="39" lean-forward="true" selection-start-line="22" selection-start-column="39" selection-end-line="22" selection-end-column="39" />
+        <state relative-caret-position="221">
+          <caret line="13" column="8" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="403">
+          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
         </state>
       </provider>
     </entry>
