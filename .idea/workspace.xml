@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ReshapetheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/NonDecreasingArray.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,14 +38,14 @@
     <session id="1566254686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="35" />
+          <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.29" value="1" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.30" value="1" />
-          <entry key="project.open.time.31" value="2" />
+          <entry key="project.open.time.31" value="3" />
           <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.33" value="3" />
           <entry key="project.open.time.34" value="5" />
@@ -57,15 +55,16 @@
           <entry key="project.open.time.38" value="1" />
           <entry key="project.open.time.41" value="1" />
           <entry key="project.open.time.433" value="1" />
+          <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="34" />
+          <entry key="project.opened" value="38" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="86" />
+          <entry key="java" value="88" />
           <entry key="js" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -73,7 +72,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="86" />
+          <entry key="JAVA" value="88" />
           <entry key="JavaScript" value="1" />
           <entry key="XML" value="3" />
         </counts>
@@ -81,42 +80,33 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="16" />
-          <entry key="java" value="36540" />
+          <entry key="java" value="38037" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="36540" />
+          <entry key="JAVA" value="38037" />
           <entry key="PLAIN_TEXT" value="16" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="357">
-              <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
-              <caret line="25" column="17" lean-forward="true" selection-start-line="25" selection-start-column="17" selection-end-line="25" selection-end-column="17" />
+              <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/NonDecreasingArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="403">
-              <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
             </state>
           </provider>
         </entry>
@@ -149,8 +139,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/MedianofTwoSortedArrays.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/TwoSumTest.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/test/lily/TwoSumTest.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/test/lily/MultiplyStringsTest.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/BubbleSort.java" />
@@ -200,6 +188,8 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CanPlaceFlowers.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/NonDecreasingArray.java" />
       </list>
     </option>
   </component>
@@ -209,11 +199,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="905" />
-    <option name="y" value="2" />
-    <option name="width" value="978" />
-    <option name="height" value="1089" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -221,6 +210,7 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,7 +248,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -267,7 +256,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558236699577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1558316334777" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -310,9 +299,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MaximumProductofThreeNumbers">
-    <configuration name="ArrayPartitionI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ArrayPartitionI" />
+  <component name="RunManager" selected="Application.NonDecreasingArray">
+    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.CanPlaceFlowers" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -324,8 +313,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CanPlaceFlowers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.CanPlaceFlowers" />
+    <configuration name="MaximumAverageSubarrayI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.MaximumAverageSubarrayI" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -350,8 +339,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ReshapetheMatrix" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.ReshapetheMatrix" />
+    <configuration name="NonDecreasingArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_array.NonDecreasingArray" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -377,19 +366,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ArrayPartitionI" />
-      <item itemvalue="Application.ReshapetheMatrix" />
       <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
       <item itemvalue="Application.CanPlaceFlowers" />
       <item itemvalue="Application.MaximumProductofThreeNumbers" />
+      <item itemvalue="Application.MaximumAverageSubarrayI" />
+      <item itemvalue="Application.NonDecreasingArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NonDecreasingArray" />
+        <item itemvalue="Application.MaximumAverageSubarrayI" />
         <item itemvalue="Application.MaximumProductofThreeNumbers" />
         <item itemvalue="Application.CanPlaceFlowers" />
         <item itemvalue="Application.ShortestUnsortedContinuousSubarray" />
-        <item itemvalue="Application.ReshapetheMatrix" />
-        <item itemvalue="Application.ArrayPartitionI" />
       </list>
     </recent_temporary>
   </component>
@@ -436,7 +425,11 @@
       <workItem from="1557991113829" duration="2134000" />
       <workItem from="1558054465923" duration="7908000" />
       <workItem from="1558145025568" duration="5520000" />
-      <workItem from="1558228451522" duration="7391000" />
+      <workItem from="1558228451522" duration="7590000" />
+      <workItem from="1558236830502" duration="32000" />
+      <workItem from="1558250041361" duration="33000" />
+      <workItem from="1558275456184" duration="2000" />
+      <workItem from="1558313557320" duration="3026000" />
     </task>
     <servers />
   </component>
@@ -446,13 +439,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="160531000" />
+    <option name="totallyTimeSpent" value="163823000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1769437" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08914209" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -461,7 +454,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49636218" weight="0.20939597" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49636218" visible="true" weight="0.20939597" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39597315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -469,7 +462,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" visible="true" weight="0.32348993" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.32348993" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.502021" side_tool="true" weight="0.33887044" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.3261745" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -491,14 +484,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/Map.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-387">
-          <caret line="211" column="6" selection-start-line="211" selection-start-column="6" selection-end-line="211" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/test/lily/TwoSumTest.java" />
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/test/lily/MultiplyStringsTest.java" />
     <entry file="file://$PROJECT_DIR$/LeetCode/src/test/com/lily/MultiplyStringsTest.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -789,10 +774,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        <state relative-caret-position="748">
+          <caret line="44" column="30" lean-forward="true" selection-start-line="44" selection-start-column="30" selection-end-line="44" selection-end-column="30" />
         </state>
       </provider>
     </entry>
@@ -803,10 +788,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumProductofThreeNumbers.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ShortestUnsortedContinuousSubarray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="49" column="31" selection-start-line="49" selection-start-column="31" selection-end-line="49" selection-end-column="31" />
+        <state relative-caret-position="357">
+          <caret line="21" column="9" lean-forward="true" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/NonDecreasingArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="19" column="63" selection-start-line="19" selection-start-column="63" selection-end-line="19" selection-end-column="63" />
         </state>
       </provider>
     </entry>
