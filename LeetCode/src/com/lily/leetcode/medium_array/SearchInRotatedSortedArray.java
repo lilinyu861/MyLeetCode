@@ -30,6 +30,7 @@ public class SearchInRotatedSortedArray {
 
     private static int search1(int[] nums, int target) {
 //  二分法
+        if (nums.length < 1) return -1;
         int left = 0, right = nums.length - 1;
         while (left < right) {
             int mid = (left + right) / 2;
