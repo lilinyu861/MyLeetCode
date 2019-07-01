@@ -1,9 +1,12 @@
 package com.lily.leetcode.medium_array;
 
+import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
- * Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sums to target.
+ * Given a collection of candidate numbers (candidates) and a target number (target),
+ * find all unique combinations in candidates where the candidate numbers sums to target.
  *
  * Each number in candidates may only be used once in the combination.
  *
@@ -32,12 +35,30 @@ import java.util.List;
  */
 public class CombinationSumII {
     public static List<List<Integer>> combinationSum2(int[] candidates, int target) {
-        return null;
+        Arrays.sort(candidates);
+        List<List<Integer>> res = new ArrayList<>();
+        listSon(res, candidates, target, 0, 0, new ArrayList<>());
+        return res;
+    }
+
+    private static void listSon(List<List<Integer>> res, int [] candidates, int target, int i, int tem_sum, ArrayList<Integer> tem_list){
+        if (tem_sum == target){
+            res.add(new ArrayList<>(tem_list));
+            return;
+        }
+        for (int start = i; start<candidates.length; start++){
+            if (tem_sum+candidates[start] > target) break;
+            if (start > i && candidates[start]==candidates[start-1]) continue;
+            tem_list.add(candidates[start]);
+            listSon(res, candidates, target, start+1, tem_sum+candidates[start], tem_list);
+            tem_list.remove(tem_list.size()-1);
+        }
+
     }
 
     public static void main(String[] args){
         int[] candidates = new int []{2,3,6,7};
-        int target = 7;
+        int target = 9;
         List<List<Integer>> result = combinationSum2(candidates, target);
         System.out.println(result);
     }
