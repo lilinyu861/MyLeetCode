@@ -17,12 +17,20 @@ package com.lily.leetcode.medium_array;
  * The order of your output does not matter.
  */
 
-import java.util.ArrayList;
-import java.util.List;
+import java.util.*;
 
 public class GroupAnagrams {
     public List<List<String>> groupAnagrams(String[] strs) {
-        return null;
+        if (strs.length == 0) return new ArrayList<>();
+        Map<String, List> result = new HashMap<>();
+        for (String s:strs){
+            char[] cs = s.toCharArray();
+            Arrays.sort(cs);
+            String key = String.valueOf(cs);
+            if (!result.containsKey(key)) result.put(key, new ArrayList());
+            result.get(key).add(s);
+        }
+        return new ArrayList(result.values());
     }
 
     public static void main(String[] args) {

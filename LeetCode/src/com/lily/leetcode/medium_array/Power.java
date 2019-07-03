@@ -1,0 +1,46 @@
+package com.lily.leetcode.medium_array;
+
+/**
+ * Implement pow(x, n), which calculates x raised to the power n (xn).
+ *
+ * Example 1:
+ *
+ * Input: 2.00000, 10
+ * Output: 1024.00000
+ * Example 2:
+ *
+ * Input: 2.10000, 3
+ * Output: 9.26100
+ * Example 3:
+ *
+ * Input: 2.00000, -2
+ * Output: 0.25000
+ * Explanation: 2-2 = 1/22 = 1/4 = 0.25
+ * Note:
+ *
+ * -100.0 < x < 100.0
+ * n is a 32-bit signed integer, within the range [−231, 231 − 1]
+ */
+public class Power {
+    public double myPow(double x, int n) {
+        if (n == 0) return 1;
+        double temp = 1;
+        for (int i = 0; i < Math.abs(n); i++){
+            temp = temp * x;
+        }
+        if (n>0){
+            return temp;
+        }
+        if (n<0){
+            return 1/temp;
+        }
+        return -1;
+    }
+
+    public static void main(String[] args) {
+        double x = -2.00000;
+        int n = -2;
+        double result = new Power().myPow(x, n);
+        System.out.println(result);
+    }
+}

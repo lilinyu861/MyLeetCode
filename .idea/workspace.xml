@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/RotateImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/Power.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/PermutationSequence.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/PermutationSequence.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -68,7 +67,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="117" />
+          <entry key="java" value="118" />
           <entry key="js" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -76,7 +75,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="117" />
+          <entry key="JAVA" value="118" />
           <entry key="JavaScript" value="1" />
           <entry key="XML" value="3" />
         </counts>
@@ -84,12 +83,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="53271" />
+          <entry key="java" value="54283" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="53271" />
+          <entry key="JAVA" value="54283" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -121,16 +120,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#489#490#0" expanded="true" />
-                <element signature="e#515#516#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="401">
+              <caret line="32" column="46" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="32" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/Power.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="339">
+              <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -180,7 +183,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/searchInsertPosition.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/SearchInsertPosition.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/CountandSay.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/MaxSubarray.java" />
@@ -231,6 +233,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/PermutationsII2.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/RotateImage.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/Power.java" />
       </list>
     </option>
   </component>
@@ -241,9 +244,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="950" />
-    <option name="width" value="979" />
-    <option name="height" value="1080" />
+    <option name="x" value="952" />
+    <option name="width" value="977" />
+    <option name="height" value="1088" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -297,7 +300,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562121459201" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562128929106" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -340,9 +343,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RotateImage">
-    <configuration name="CombinationSumII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.CombinationSumII" />
+  <component name="RunManager" selected="Application.Power">
+    <configuration name="GroupAnagrams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.GroupAnagrams" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -367,8 +370,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.Permutations" />
+    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.PermutationsII" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -380,8 +383,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PermutationsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.PermutationsII" />
+    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.Power" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -407,19 +410,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.CombinationSumII" />
-      <item itemvalue="Application.Permutations" />
       <item itemvalue="Application.PermutationsII" />
       <item itemvalue="Application.PermutationSequence" />
       <item itemvalue="Application.RotateImage" />
+      <item itemvalue="Application.GroupAnagrams" />
+      <item itemvalue="Application.Power" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Power" />
+        <item itemvalue="Application.GroupAnagrams" />
         <item itemvalue="Application.RotateImage" />
         <item itemvalue="Application.PermutationSequence" />
         <item itemvalue="Application.PermutationsII" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.CombinationSumII" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +486,7 @@
       <workItem from="1560314271950" duration="3676000" />
       <workItem from="1560401797370" duration="775000" />
       <workItem from="1561946477664" duration="25820000" />
-      <workItem from="1562118757988" duration="3195000" />
+      <workItem from="1562118757988" duration="6827000" />
     </task>
     <servers />
   </component>
@@ -493,13 +496,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="227392000" />
+    <option name="totallyTimeSpent" value="231024000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08176944" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13069706" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -508,7 +511,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.20671141" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.4966488" visible="true" weight="0.20402685" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39597315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -516,9 +519,9 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.32700136" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.3261745" />
       <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5033512" side_tool="true" weight="0.20939597" />
-      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.3261745" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.32971507" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -570,13 +573,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/TwoSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/ImplementstrStr.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-87">
@@ -919,13 +915,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/GroupAnagrams.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#489#490#0" expanded="true" />
-            <element signature="e#515#516#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="401">
+          <caret line="32" column="46" lean-forward="true" selection-start-line="23" selection-start-column="8" selection-end-line="32" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/Power.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="32" column="10" selection-start-line="32" selection-start-column="10" selection-end-line="32" selection-end-column="10" />
         </state>
       </provider>
     </entry>
