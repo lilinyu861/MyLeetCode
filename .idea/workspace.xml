@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/MergeIntervals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_string/LengthOfLastWord.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -37,7 +37,7 @@
     <session id="1566254686">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="50" />
+          <entry key="project.closed" value="51" />
           <entry key="project.open.time.0" value="3" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.17" value="2" />
@@ -48,7 +48,7 @@
           <entry key="project.open.time.32" value="3" />
           <entry key="project.open.time.33" value="6" />
           <entry key="project.open.time.34" value="10" />
-          <entry key="project.open.time.35" value="3" />
+          <entry key="project.open.time.35" value="4" />
           <entry key="project.open.time.36" value="2" />
           <entry key="project.open.time.37" value="5" />
           <entry key="project.open.time.38" value="1" />
@@ -60,13 +60,13 @@
           <entry key="project.open.time.6" value="1" />
           <entry key="project.open.time.7" value="1" />
           <entry key="project.open.time.8" value="2" />
-          <entry key="project.opened" value="53" />
+          <entry key="project.opened" value="54" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="127" />
+          <entry key="java" value="128" />
           <entry key="js" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -74,7 +74,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="127" />
+          <entry key="JAVA" value="128" />
           <entry key="JavaScript" value="1" />
           <entry key="XML" value="3" />
         </counts>
@@ -82,12 +82,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="20" />
-          <entry key="java" value="58233" />
+          <entry key="java" value="58932" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="58233" />
+          <entry key="JAVA" value="58932" />
           <entry key="PLAIN_TEXT" value="20" />
         </counts>
       </usages-collector>
@@ -95,78 +95,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_hashtable/SingleNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="440">
-              <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/SpiralMatrix.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="47" column="58" lean-forward="true" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/JumpGame.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="406">
-              <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/MergeIntervals.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_string/LengthOfLastWord.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/CopyListWithRandomPointer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="68">
-              <caret line="4" column="2" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/HappyNumber.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
-              <folding>
-                <element signature="e#664#665#0" expanded="true" />
-                <element signature="e#692#693#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/BinaryTreeInorderTraversal.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="782">
-              <caret line="46" column="89" selection-start-line="46" selection-start-column="89" selection-end-line="46" selection-end-column="89" />
+            <state relative-caret-position="493">
+              <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
             </state>
           </provider>
         </entry>
@@ -204,7 +137,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/PlusOne_66.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/PlusOne.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MergeSortedArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/PascalTriangle.java" />
@@ -251,10 +183,11 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_hashtable/SingleNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/BinaryTreeInorderTraversal.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/CopyListWithRandomPointer.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/HappyNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/SpiralMatrix.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/JumpGame.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/HappyNumber.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_string/LengthOfLastWord.java" />
       </list>
     </option>
   </component>
@@ -265,7 +198,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+    <option name="x" value="-8" />
     <option name="width" value="977" />
     <option name="height" value="1088" />
   </component>
@@ -274,6 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -299,28 +234,10 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="easy_hashtable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="medium_array" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -329,14 +246,14 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562407565192" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562550307027" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaWebDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -372,7 +289,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergeIntervals">
+  <component name="RunManager" selected="Application.LengthOfLastWord">
     <configuration name="JumpGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_list.JumpGame" />
       <module name="LeetCode" />
@@ -386,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.MergeIntervals" />
+    <configuration name="LengthOfLastWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.easy_string.LengthOfLastWord" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.leetcode.medium_array.*" />
+          <option name="PATTERN" value="com.lily.leetcode.easy_string.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -399,8 +316,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Power" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.Power" />
+    <configuration name="MergeIntervals" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_array.MergeIntervals" />
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -439,19 +356,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Power" />
       <item itemvalue="Application.SingleNumber" />
       <item itemvalue="Application.SpiralMatrix" />
       <item itemvalue="Application.JumpGame" />
       <item itemvalue="Application.MergeIntervals" />
+      <item itemvalue="Application.LengthOfLastWord" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.LengthOfLastWord" />
         <item itemvalue="Application.MergeIntervals" />
         <item itemvalue="Application.JumpGame" />
         <item itemvalue="Application.SpiralMatrix" />
         <item itemvalue="Application.SingleNumber" />
-        <item itemvalue="Application.Power" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +434,8 @@
       <workItem from="1561946477664" duration="25820000" />
       <workItem from="1562118757988" duration="7651000" />
       <workItem from="1562295025218" duration="7287000" />
-      <workItem from="1562383486409" duration="12943000" />
+      <workItem from="1562383486409" duration="14014000" />
+      <workItem from="1562546162359" duration="3319000" />
     </task>
     <servers />
   </component>
@@ -527,13 +445,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="252078000" />
+    <option name="totallyTimeSpent" value="256468000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1816354" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364611" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -542,7 +459,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49597856" visible="true" weight="0.20268457" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49597856" visible="true" weight="0.2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39597315" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -550,8 +467,8 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.497979" weight="0.32971507" />
-      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50402147" side_tool="true" weight="0.20268457" />
+      <window_info anchor="bottom" id="Terminal" order="10" sideWeight="0.49731904" weight="0.33242875" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.50268096" side_tool="true" weight="0.32885906" />
       <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4995958" weight="0.32885906" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -604,13 +521,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1266">
-          <caret line="82" lean-forward="true" selection-start-line="82" selection-end-line="82" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MajorityElement.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="212">
@@ -909,25 +819,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/BinaryTreeInorderTraversal.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="782">
+        <state relative-caret-position="340">
           <caret line="46" column="89" selection-start-line="46" selection-start-column="89" selection-end-line="46" selection-end-column="89" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/HappyNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#664#665#0" expanded="true" />
-            <element signature="e#692#693#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_hashtable/SingleNumber.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="440">
+        <state relative-caret-position="425">
           <caret line="27" column="46" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -937,8 +836,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/SpiralMatrix.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="47" column="58" lean-forward="true" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
+        <state relative-caret-position="782">
+          <caret line="47" column="58" selection-start-line="47" selection-start-column="58" selection-end-line="47" selection-end-column="58" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -948,17 +847,35 @@
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/JumpGame.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="406">
-          <caret line="41" column="37" lean-forward="true" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/MergeIntervals.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="408">
-          <caret line="46" column="57" selection-start-line="46" selection-start-column="57" selection-end-line="46" selection-end-column="57" />
+          <caret line="46" column="13" selection-start-line="46" selection-start-column="13" selection-end-line="46" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/HappyNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="28" selection-start-line="28" selection-end-line="28" />
+          <folding>
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#692#693#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_string/LengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="44" lean-forward="true" selection-start-line="44" selection-end-line="44" />
         </state>
       </provider>
     </entry>
