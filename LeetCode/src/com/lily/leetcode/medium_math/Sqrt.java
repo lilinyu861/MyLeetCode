@@ -38,5 +38,6 @@ public class Sqrt {
         int x = 8;
         int result = new Sqrt().mySqrt(x);
         System.out.println(result);
+        System.out.println((int)Math.pow(12, 0.5));
     }
 }
