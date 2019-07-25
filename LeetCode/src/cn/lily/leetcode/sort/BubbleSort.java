@@ -1,6 +1,7 @@
 package cn.lily.leetcode.sort;
 
 import java.util.Arrays;
+//冒泡排序 实践复杂度 O（n^2） 空间复杂度O（1） 稳定
 
 public class BubbleSort {
     public void bubbleSort(int[] nums){
