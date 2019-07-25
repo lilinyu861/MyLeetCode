@@ -1,7 +1,7 @@
 package cn.lily.leetcode.sort;
 
 import java.util.Arrays;
-
+// 归并排序， 递归  时间复杂度O(nlog2n) 空间复杂度O(n) 不稳定
 public class MergingSort {
     public int[] merginSort(int[] nums) {
         if (nums.length <=1) return nums;

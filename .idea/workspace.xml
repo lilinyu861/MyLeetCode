@@ -2,13 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/SelectionSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/HeapSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/RedixSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/InsertInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/MergeInterval.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/ShellSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/ShellSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/sort/QuickSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/MergingSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/MergingSort.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +70,7 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="iml" value="1" />
-          <entry key="java" value="166" />
+          <entry key="java" value="171" />
           <entry key="js" value="1" />
           <entry key="xml" value="3" />
         </counts>
@@ -78,7 +78,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="166" />
+          <entry key="JAVA" value="171" />
           <entry key="JavaScript" value="1" />
           <entry key="XML" value="3" />
         </counts>
@@ -86,12 +86,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="46" />
-          <entry key="java" value="76844" />
+          <entry key="java" value="78358" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="76844" />
+          <entry key="JAVA" value="78358" />
           <entry key="PLAIN_TEXT" value="46" />
         </counts>
       </usages-collector>
@@ -100,19 +100,36 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/HeapSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+            <state relative-caret-position="68">
+              <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/MergeInterval.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/InsertInterval.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+            <state relative-caret-position="425">
+              <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#641#642#0" expanded="true" />
+                <element signature="e#660#661#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -150,10 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/NonDecreasingArray.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/NextPermutation.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/SearchInRotatedSortedArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/FindFirstAndLastPositionofElementinSortedArray.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSum.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/LetterCombinationOfAPhoneNumber.java" />
@@ -199,8 +212,12 @@
         <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/ShellSort.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/SelectionSort.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/QuickSort.java" />
-        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/RedixSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/HeapSort.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/MergeInterval.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/InsertInterval.java" />
       </list>
     </option>
   </component>
@@ -210,8 +227,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="952" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
     <option name="width" value="977" />
     <option name="height" value="1088" />
   </component>
@@ -245,22 +263,7 @@
               <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="MyLeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MyLeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -275,7 +278,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/githublily/MyLeetCode/LeetCode/src/com/lily/leetcode/easy_string/LengthOfLastWord.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564025604711" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1564040678026" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
@@ -318,7 +321,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MergingSort">
+  <component name="RunManager" selected="Application.MergeInterval">
+    <configuration name="MergeInterval" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.lily.leetcode.sort_lc.MergeInterval" />
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.lily.leetcode.sort_lc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="MergingSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="cn.lily.leetcode.sort.MergingSort" />
       <module name="LeetCode" />
@@ -371,33 +387,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ShellSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lily.leetcode.sort.ShellSort" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cn.lily.leetcode.sort.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.ShellSort" />
       <item itemvalue="Application.SelectionSort" />
       <item itemvalue="Application.QuickSort" />
       <item itemvalue="Application.QuickSort (1)" />
       <item itemvalue="Application.MergingSort" />
+      <item itemvalue="Application.MergeInterval" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MergeInterval" />
         <item itemvalue="Application.MergingSort" />
         <item itemvalue="Application.QuickSort (1)" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.SelectionSort" />
-        <item itemvalue="Application.ShellSort" />
       </list>
     </recent_temporary>
   </component>
@@ -476,7 +479,7 @@
       <workItem from="1563496821743" duration="610000" />
       <workItem from="1563768550177" duration="2399000" />
       <workItem from="1563870529492" duration="1197000" />
-      <workItem from="1564014458799" duration="9627000" />
+      <workItem from="1564014458799" duration="15396000" />
     </task>
     <servers />
   </component>
@@ -486,10 +489,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="313976000" />
+    <option name="totallyTimeSpent" value="319745000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20844504" />
@@ -531,41 +534,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/LongestPalindromicSubstring.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/DivideTwoInteger.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="42" column="25" selection-start-line="42" selection-start-column="25" selection-end-line="42" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MaximumAverageSubarrayI.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="41" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSumII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="199">
-          <caret line="46" column="19" lean-forward="true" selection-start-line="46" selection-start-column="19" selection-end-line="46" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/Permutations.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
@@ -865,17 +833,60 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
-          <caret line="3" column="40" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
+          <caret line="3" column="41" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/MergingSort.java">
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="67" lean-forward="true" selection-start-line="9" selection-start-column="67" selection-end-line="9" selection-end-column="67" />
+        <state relative-caret-position="102">
+          <caret line="6" column="34" lean-forward="true" selection-start-line="6" selection-start-column="34" selection-end-line="6" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/RedixSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/HeapSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="210" column="12" selection-start-line="210" selection-start-column="12" selection-end-line="210" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/MergeInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="30" column="46" lean-forward="true" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort_lc/InsertInterval.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#660#661#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
