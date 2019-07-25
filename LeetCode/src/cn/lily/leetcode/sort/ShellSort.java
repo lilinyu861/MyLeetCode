@@ -1,7 +1,7 @@
 package cn.lily.leetcode.sort;
 
 import java.util.Arrays;
-
+// 希尔排序 时间复杂度O（nlog2n） 空间复杂度O（1） 不稳定
 public class ShellSort {
     public void shellSort(int[] nums){
         for (int gap = nums.length/2; gap>0; gap/=2){
