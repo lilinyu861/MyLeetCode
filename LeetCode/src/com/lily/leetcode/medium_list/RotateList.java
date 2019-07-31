@@ -30,15 +30,26 @@ public class RotateList {
     }
 
     public ListNode rotateRight(ListNode head, int k) {
-        return null;
+        if(head == null || head.next == null) return head;
+        ListNode dummy = new ListNode(0);
+        dummy.next = head;
+        ListNode fast = dummy, slow = dummy;
+        // i记录链表的长度
+        int i;
+        for( i = 0; fast.next != null; i++){
+            fast = fast.next;
+        }
+        //获取i-n%i个node
+        for (int j = i-k%i; j > 0; j--){
+            slow = slow.next;
+        }
+        //轮转
+        fast.next = dummy.next;
+        dummy.next = slow.next;
+        slow.next = null;
+
+        return dummy.next;
     }
 
-    public static void main(String[] args) {
-        ListNode head = new ListNode(1);
-        ListNode second = new ListNode(2);
-        ListNode third = new ListNode(3);
-        ListNode forth = new ListNode(4);
-        ListNode fifth = new ListNode(5);
 
-    }
 }
