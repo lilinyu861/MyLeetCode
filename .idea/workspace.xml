@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/BinaryTreeInorderTraversal.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SameTree.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/UniqueBinarySearchTrees.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/UniqueBinarySearchTreesII.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SymmetricTree.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort_lc/MergeInterval.class" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort_lc/MergeInterval.class" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -166,12 +161,25 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RecoverBinarySearchTree.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="RecoverBinarySearchTree.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="29" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="29" />
+            <state relative-caret-position="252">
+              <caret line="12" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SymmetricTree.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SymmetricTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="336">
+              <caret line="16" column="88" lean-forward="false" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+              <folding>
+                <element signature="e#247#248#0" expanded="true" />
+                <element signature="e#290#291#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -226,7 +234,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_hashtable/SingleNumber.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/BinaryTreeInorderTraversal.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_hashtable/CopyListWithRandomPointer.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_list/SpiralMatrix.java" />
@@ -277,6 +284,7 @@
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/UniqueBinarySearchTrees.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SameTree.java" />
         <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.java" />
+        <option value="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SymmetricTree.java" />
       </list>
     </option>
   </component>
@@ -611,7 +619,7 @@
       <workItem from="1564807225891" duration="9775000" />
       <workItem from="1564888430707" duration="1255000" />
       <workItem from="1564976356287" duration="21000" />
-      <workItem from="1564983221183" duration="5081000" />
+      <workItem from="1564983221183" duration="6127000" />
     </task>
     <servers />
   </component>
@@ -621,7 +629,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="355645000" />
+    <option name="totallyTimeSpent" value="356691000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="952" y="0" width="976" height="1088" extended-state="0" />
@@ -637,7 +645,7 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18974918" sideWeight="0.49597856" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33151582" sideWeight="0.49731904" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33151582" sideWeight="0.49731904" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32150775" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -670,13 +678,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/SpiralMatrixII.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="33" column="13" lean-forward="true" selection-start-line="33" selection-start-column="13" selection-end-line="33" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_51/src.zip!/java/lang/StrictMath.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-11446">
@@ -1025,9 +1026,20 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="29" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="29" />
+        <state relative-caret-position="252">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="12" selection-end-column="5" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_tree/SymmetricTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="16" column="88" lean-forward="false" selection-start-line="16" selection-start-column="88" selection-end-line="16" selection-end-column="88" />
+          <folding>
+            <element signature="e#247#248#0" expanded="true" />
+            <element signature="e#290#291#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
