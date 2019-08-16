@@ -1,4 +1,4 @@
-package com.lily.leetcode.ease_list;
+package com.lily.leetcode.easy_list;
 
 /**
  * Given a sorted linked list, delete all duplicates such that each element appear only once.

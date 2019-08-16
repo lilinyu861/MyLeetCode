@@ -1,6 +1,4 @@
-package com.lily.leetcode.easy_array;
-
-import com.sun.org.apache.xpath.internal.SourceTree;
+package com.lily.leetcode.easy_math;
 
 import java.util.Scanner;
 
