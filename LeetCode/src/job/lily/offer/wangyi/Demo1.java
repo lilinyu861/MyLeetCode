@@ -9,7 +9,7 @@ public class Demo1 {
         int [] score = new int[n];
         for (int i = 0; i < n ; i++){
             score[i] = sc.nextInt();
-      git  }
+      }
         int q = sc.nextInt();
         while(q != 0){
             int m = sc.nextInt();
