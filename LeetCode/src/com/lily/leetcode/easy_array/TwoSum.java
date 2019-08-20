@@ -1,4 +1,7 @@
 package com.lily.leetcode.easy_array;
+/**
+ *
+ */
 
 import java.util.Arrays;
 import java.util.HashMap;
@@ -9,7 +12,7 @@ public class TwoSum{
         Map<Integer, Integer> hashTable = new HashMap<>();
         for(int i=0; i<nums.length; i++){
             int a = target - nums[i];
-            if(hashTable.containsKey(a)){
+            if(hashTable.containsKey(a) && hashTable.get(a) != i){
                 return new int []{hashTable.get(a), i};
             }
             hashTable.put(nums[i], i);
@@ -31,8 +34,8 @@ public class TwoSum{
 
     public static void main(String[] args){
         TwoSum a = new TwoSum();
-        int nums[] = {2, 5, 8, 4, 1, 10};
-        int target = 12;
+        int nums[] = {3,2,4};
+        int target = 6;
         int [] out = a.twoSum(nums, target);
         System.out.println(Arrays.toString(out));
     }
