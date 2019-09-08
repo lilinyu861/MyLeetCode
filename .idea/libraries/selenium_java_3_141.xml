@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="selenium-java-3.141">
+    <CLASSES>
+      <root url="jar://D:/迅雷下载/selenium-server-standalone-3.141.59.jar!/" />
+      <root url="file://D:/迅雷下载/selenium-java-3.141.59" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://D:/迅雷下载/selenium-java-3.141.59" />
+    </SOURCES>
+    <jarDirectory url="file://D:/迅雷下载/selenium-java-3.141.59" recursive="false" />
+    <jarDirectory url="file://D:/迅雷下载/selenium-java-3.141.59" recursive="false" type="SOURCES" />
+  </library>
+</component>
