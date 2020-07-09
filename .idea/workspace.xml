@@ -2,32 +2,52 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/algorithm/RabbitsProblem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/algorithm/TraversalTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_list/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_list/RemoveDuplicateNodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DecompressRLElist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DefangIPaddr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DeleteNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/FindNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/JewelsInStones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/MaxDepth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/MinTimeToVisitAllPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/NumberOfSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ProductAndSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ReverseLeftWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ReverseString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/SmallerNumbersThanCurrent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/TwoSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/hard/MaxRepetitions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/hard/ReversePairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/CanJump.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/MergeInterval.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/NumIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/RightSideView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/Subarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/WaysToChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/DecompressRLElistTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/DefangIPaddrTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/FindNumbersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/GameTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/JewelsInStonesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/MinTimeToVisitAllPointsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/NumIslandsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/NumberOfStepsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ProductAndSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/RemoveDuplicateNodesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReverseLeftWordsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReversePairsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReverseStringTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/RightSideViewTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/SmallerNumbersThanCurrentTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/SubarraysTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/TwoSumTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/WaysToChangeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/test/lily/web/TestWeb.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/linkedlist/LinkedListCycle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/linkedlist/LinkedListCycle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/linkedlist/ListReverse.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/linkedlist/ListReverse.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort_lc/MergeInterval.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort_lc/MergeInterval.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/AddTwoNumbers.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/AddTwoNumbers.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_list/RemoveDuplicatesFromSortedList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_list/RemoveDuplicatesFromSortedList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/ConverSortedListToBinary.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/ConverSortedListToBinary.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/LinkedListCycleII$ListNode.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/LinkedListCycleII$ListNode.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/LinkedListCycleII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/LinkedListCycleII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/PartitionList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/PartitionList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/RemoveDuplicatesFromSortedListII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/RemoveDuplicatesFromSortedListII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/ReverseLinkedListII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/ReverseLinkedListII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/RotateList.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/RotateList.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/sortedListToBST.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_list/sortedListToBST.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeInorderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeInorderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeZigzagLevelOrderTraversal.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/BinaryTreeZigzagLevelOrderTraversal.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/RecoverBinarySearchTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/SameTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/SameTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/SymmetricTree.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/SymmetricTree.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/UniqueBinarySearchTreesII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_tree/UniqueBinarySearchTreesII.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/job/lily/offer/wangyi/Demo2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/job/lily/offer/wangyi/Demo2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/loseWeight/Metabolism.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/loseWeight/Metabolism.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/test/lily/web/TestWeb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSumII.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/CombinationSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/CombinationSumII.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +59,9 @@
     <SUITE FILE_PATH="coverage/MyLeetCode$MultiplyStringsTest.ic" NAME="MultiplyStringsTest Coverage Results" MODIFIED="1553427565259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.com.lily.*</FILTER>
     </SUITE>
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="201" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -59,27 +82,11 @@
       <list>
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit3 Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="JavaScript File" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>&quot;</find>
-      <find>\{\'5\'\,\'3\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;7\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\}\,\n                \{\&quot;6\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;1\&quot;\,\&quot;9\&quot;\,\&quot;5\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\}\,\n                \{\&quot;\.\&quot;\,\&quot;9\&quot;\,\&quot;8\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;6\&quot;\,\&quot;\.\&quot;\}\,\n                \{\&quot;8\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;6\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;3\&quot;\}\,\n                \{\&quot;4\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;8\&quot;\,\&quot;\.\&quot;\,\&quot;3\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;1\&quot;\}\,\n                \{\&quot;7\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;2\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;6\&quot;\}\,\n                \{\&quot;\.\&quot;\,\&quot;6\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;2\&quot;\,\&quot;8\&quot;\,\&quot;\.\&quot;\}\,\n                \{\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;4\&quot;\,\&quot;1\&quot;\,\&quot;9\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;5\&quot;\}\,\n                \{\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;8\&quot;\,\&quot;\.\&quot;\,\&quot;\.\&quot;\,\&quot;7\&quot;\,\&quot;9\&quot;\}</find>
-      <find>add</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-      <replace>int</replace>
-    </replaceStrings>
-    <dirStrings>
-      <dir>D:\githublily\MyLeetCode\LeetCode\src\com\lily</dir>
-      <dir>D:\githublily\MyLeetCode\LeetCode\src</dir>
-      <dir>D:\githublily\MyLeetCode\LeetCode\src\com\lily\leetcode\medium_array</dir>
-    </dirStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -97,6 +104,7 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3" value="junit.framework.TestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="true" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -109,6 +117,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.lily.top.interview.test" />
+      <recent name="com.lily.top.interview.middle" />
+      <recent name="com.lily.top.interview.easy" />
       <recent name="com.test.lily" />
       <recent name="com.lily" />
     </key>
@@ -135,86 +146,100 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.RabbitsProblem">
-    <configuration name="LinkedListCycle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lily.leetcode.linkedlist.LinkedListCycle" />
+  <component name="RunManager" selected="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints">
+    <configuration name="DefangIPaddrTest.defangIPaddr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lily.leetcode.linkedlist.*" />
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.DefangIPaddrTest" />
+      <option name="METHOD_NAME" value="defangIPaddr" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LinkedListCycleII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_list.LinkedListCycleII" />
+    <configuration name="MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.leetcode.medium_list.*" />
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.MinTimeToVisitAllPointsTest" />
+      <option name="METHOD_NAME" value="minTimeToVisitAllPoints" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListReverse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cn.lily.leetcode.linkedlist.ListReverse" />
+    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="cn.lily.leetcode.linkedlist.*" />
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.ReverseStringTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RabbitsProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.algorithm.RabbitsProblem" />
+    <configuration name="ReverseStringTest.reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.algorithm.*" />
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.ReverseStringTest" />
+      <option name="METHOD_NAME" value="reverseString" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="sortedListToBST" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.lily.leetcode.medium_list.sortedListToBST" />
+    <configuration name="SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.lily.leetcode.medium_list.*" />
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.SmallerNumbersThanCurrentTest" />
+      <option name="METHOD_NAME" value="smallerNumbersThanCurrent" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.ListReverse" />
-      <item itemvalue="Application.LinkedListCycle" />
-      <item itemvalue="Application.sortedListToBST" />
-      <item itemvalue="Application.LinkedListCycleII" />
-      <item itemvalue="Application.RabbitsProblem" />
+      <item itemvalue="JUnit.SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" />
+      <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
+      <item itemvalue="JUnit.ReverseStringTest.reverseString" />
+      <item itemvalue="JUnit.ReverseStringTest" />
+      <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RabbitsProblem" />
-        <item itemvalue="Application.LinkedListCycleII" />
-        <item itemvalue="Application.sortedListToBST" />
-        <item itemvalue="Application.LinkedListCycle" />
-        <item itemvalue="Application.ListReverse" />
+        <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
+        <item itemvalue="JUnit.ReverseStringTest.reverseString" />
+        <item itemvalue="JUnit.ReverseStringTest" />
+        <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
+        <item itemvalue="JUnit.SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" />
       </list>
     </recent_temporary>
   </component>
@@ -334,14 +359,20 @@
       <workItem from="1568593679001" duration="2227000" />
       <workItem from="1568599770020" duration="11353000" />
       <workItem from="1568680335478" duration="8240000" />
-      <workItem from="1577281719905" duration="4373000" />
+      <workItem from="1577281719905" duration="4548000" />
+      <workItem from="1578473582009" duration="2340000" />
+      <workItem from="1587028814172" duration="5870000" />
+      <workItem from="1587091392482" duration="8952000" />
+      <workItem from="1587273695217" duration="1008000" />
+      <workItem from="1587303408957" duration="2392000" />
+      <workItem from="1587386911136" duration="8000" />
+      <workItem from="1587435008692" duration="9106000" />
+      <workItem from="1587604989696" duration="12870000" />
+      <workItem from="1587860226489" duration="3530000" />
+      <workItem from="1593145763680" duration="387000" />
+      <workItem from="1594097819837" duration="1327000" />
     </task>
     <servers />
-  </component>
-  <component name="TestHistory">
-    <history-entry file="MultiplyStringsTest - 2019.03.24 at 19h 39m 35s.xml">
-      <configuration name="MultiplyStringsTest" configurationId="JUnit" />
-    </history-entry>
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -360,11 +391,18 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
     </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/MyLeetCode$CanJump.ic" NAME="CanJump Coverage Results" MODIFIED="1587093137951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.lily.top.interview.middle.*</FILTER>
+    </SUITE>
   </component>
   <component name="masterDetails">
     <states>
