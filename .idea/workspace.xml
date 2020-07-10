@@ -2,52 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/algorithm/TraversalTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_list/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_list/RemoveDuplicateNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DecompressRLElist.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DefangIPaddr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/DeleteNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/FindNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/Game.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/JewelsInStones.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/MaxDepth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/MinTimeToVisitAllPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/NumberOfSteps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ProductAndSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ReverseLeftWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/ReverseString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/SmallerNumbersThanCurrent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/TwoSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/hard/MaxRepetitions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/hard/ReversePairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/CanJump.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/MergeInterval.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/NumIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/RightSideView.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/Subarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/middle/WaysToChange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/DecompressRLElistTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/DefangIPaddrTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/FindNumbersTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/GameTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/JewelsInStonesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/MinTimeToVisitAllPointsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/NumIslandsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/NumberOfStepsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ProductAndSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/RemoveDuplicateNodesTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReverseLeftWordsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReversePairsTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ReverseStringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/RightSideViewTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/SmallerNumbersThanCurrentTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/SubarraysTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/TwoSumTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/WaysToChangeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/Shuffle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ShuffleTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSumII.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/medium_array/CombinationSumII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/CombinationSumII.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/medium_array/CombinationSumII.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -83,8 +41,8 @@
         <option value="Arquillian JUnit Test Class" />
         <option value="JUnit3 Test Class" />
         <option value="JavaScript File" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -146,7 +104,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints">
+  <component name="RunManager" selected="JUnit.ShuffleTest.testShuffle">
     <configuration name="DefangIPaddrTest.defangIPaddr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -210,7 +168,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ShuffleTest.testShuffle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -219,27 +177,27 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.SmallerNumbersThanCurrentTest" />
-      <option name="METHOD_NAME" value="smallerNumbersThanCurrent" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.ShuffleTest" />
+      <option name="METHOD_NAME" value="testShuffle" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" />
       <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
       <item itemvalue="JUnit.ReverseStringTest.reverseString" />
       <item itemvalue="JUnit.ReverseStringTest" />
       <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
+      <item itemvalue="JUnit.ShuffleTest.testShuffle" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ShuffleTest.testShuffle" />
         <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
         <item itemvalue="JUnit.ReverseStringTest.reverseString" />
         <item itemvalue="JUnit.ReverseStringTest" />
         <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
-        <item itemvalue="JUnit.SmallerNumbersThanCurrentTest.smallerNumbersThanCurrent" />
       </list>
     </recent_temporary>
   </component>
@@ -370,7 +328,7 @@
       <workItem from="1587604989696" duration="12870000" />
       <workItem from="1587860226489" duration="3530000" />
       <workItem from="1593145763680" duration="387000" />
-      <workItem from="1594097819837" duration="1327000" />
+      <workItem from="1594097819837" duration="2606000" />
     </task>
     <servers />
   </component>
