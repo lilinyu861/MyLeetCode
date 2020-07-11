@@ -2,10 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/Shuffle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/ShuffleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/BusyStudent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/CreateTargetArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/MinCount.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_list/GetDecimalValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/easy/CreateTargetArrayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/top/interview/test/GetDecimalValueTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/META-INF/LeetCode.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/Shuffle.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_array/Shuffle.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,8 +80,8 @@
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.lily.top.interview.test" />
-      <recent name="com.lily.top.interview.middle" />
       <recent name="com.lily.top.interview.easy" />
+      <recent name="com.lily.top.interview.middle" />
       <recent name="com.test.lily" />
       <recent name="com.lily" />
     </key>
@@ -104,8 +108,24 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.ShuffleTest.testShuffle">
-    <configuration name="DefangIPaddrTest.defangIPaddr" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.GetDecimalValueTest">
+    <configuration name="CreateTargetArrayTest.testCreateTargetArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lily.top.interview.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.easy" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.easy.CreateTargetArrayTest" />
+      <option name="METHOD_NAME" value="testCreateTargetArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetDecimalValueTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +134,23 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.DefangIPaddrTest" />
-      <option name="METHOD_NAME" value="defangIPaddr" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.GetDecimalValueTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="GetDecimalValueTest.testCase1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.lily.top.interview.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
+      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.GetDecimalValueTest" />
+      <option name="METHOD_NAME" value="testCase1" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -132,37 +167,6 @@
       <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
       <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.MinTimeToVisitAllPointsTest" />
       <option name="METHOD_NAME" value="minTimeToVisitAllPoints" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lily.top.interview.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.ReverseStringTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ReverseStringTest.reverseString" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.lily.top.interview.test.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.lily.top.interview.test" />
-      <option name="MAIN_CLASS_NAME" value="com.lily.top.interview.test.ReverseStringTest" />
-      <option name="METHOD_NAME" value="reverseString" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -185,19 +189,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
-      <item itemvalue="JUnit.ReverseStringTest.reverseString" />
-      <item itemvalue="JUnit.ReverseStringTest" />
       <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
       <item itemvalue="JUnit.ShuffleTest.testShuffle" />
+      <item itemvalue="JUnit.CreateTargetArrayTest.testCreateTargetArray" />
+      <item itemvalue="JUnit.GetDecimalValueTest.testCase1" />
+      <item itemvalue="JUnit.GetDecimalValueTest" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.GetDecimalValueTest" />
+        <item itemvalue="JUnit.GetDecimalValueTest.testCase1" />
+        <item itemvalue="JUnit.CreateTargetArrayTest.testCreateTargetArray" />
         <item itemvalue="JUnit.ShuffleTest.testShuffle" />
         <item itemvalue="JUnit.MinTimeToVisitAllPointsTest.minTimeToVisitAllPoints" />
-        <item itemvalue="JUnit.ReverseStringTest.reverseString" />
-        <item itemvalue="JUnit.ReverseStringTest" />
-        <item itemvalue="JUnit.DefangIPaddrTest.defangIPaddr" />
       </list>
     </recent_temporary>
   </component>
@@ -328,7 +332,7 @@
       <workItem from="1587604989696" duration="12870000" />
       <workItem from="1587860226489" duration="3530000" />
       <workItem from="1593145763680" duration="387000" />
-      <workItem from="1594097819837" duration="2606000" />
+      <workItem from="1594097819837" duration="6510000" />
     </task>
     <servers />
   </component>
