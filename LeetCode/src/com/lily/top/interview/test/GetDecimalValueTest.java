@@ -1,11 +1,8 @@
 package com.lily.top.interview.test;
 
 import com.lily.leetcode.easy_list.GetDecimalValue;
-import com.lily.leetcode.easy_list.RemoveDuplicateNodes;
-import org.junit.Test;
 
-import java.util.ArrayList;
-import java.util.List;
+import org.junit.Test;
 
 import static org.junit.Assert.*;
 
