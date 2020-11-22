@@ -1,6 +1,6 @@
 package com.lily.leetcode.easy_dynamicProgramming;
 
-public class fibonaci {
+public class Fibonaci {
     //动态规划
     public int fibonaci(int n ){
         if (n == 1 || n==2) return 1;
@@ -22,9 +22,9 @@ public class fibonaci {
 
     public static void main(String[] args) {
         int n = 6;
-        int result = new fibonaci().fibonaci(n);
+        int result = new Fibonaci().fibonaci(n);
         System.out.println(result);
-        int result2 = new fibonaci().fibonaci2(n);
+        int result2 = new Fibonaci().fibonaci2(n);
         System.out.println(result2);
     }
 }

@@ -1,6 +1,8 @@
 package cn.lily.leetcode.sort;
 
 import java.util.Arrays;
+import java.util.Scanner;
+
 // 快速排序， 迭代 时间复杂度O（nlog2n) 空间复杂度O（1） 不稳定
 public class QuickSort {
     public int[] quickSort(int[] nums, int low, int high){
@@ -23,7 +25,13 @@ public class QuickSort {
     }
 
     public static void main(String[] args) {
-        int[] nums = new int[]{1, 4, 3, 6, 5, 3, 2};
+        Scanner in = new Scanner(System.in);
+        int n = in.nextInt();
+        int[] nums = new int[n];
+        for (int i = 0; i < n; i++) {
+            nums[i] = in.nextInt();
+        }
+//        int[] nums = new int[]{1, 4, 3, 6, 5, 3, 2};
         int[] result = new QuickSort().quickSort(nums, 0, nums.length-1);
         System.out.println(Arrays.toString(result));
     }
