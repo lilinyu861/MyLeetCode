@@ -2,23 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_array/RunningSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/zsr/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/com/zsr/Demo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo2.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/InsertionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/InsertionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/cn/lily/leetcode/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_dynamicProgramming/fibonaci.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/easy_dynamicProgramming/Fibonaci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/InsertSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/InsertSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/QuickSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/com/lily/leetcode/sort/QuickSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/InsertionSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/InsertionSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/QuickSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/cn/lily/leetcode/sort/QuickSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_dynamicProgramming/fibonaci.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/easy_dynamicProgramming/fibonaci.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/sort/InsertSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/sort/InsertSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/leetcode/sort/QuickSort.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/lily/top/interview/test/GetDecimalValueTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/com/lily/top/interview/test/GetDecimalValueTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -332,6 +317,13 @@
       <workItem from="1599914793255" duration="20000" />
       <workItem from="1599984841929" duration="1551000" />
       <workItem from="1599998426998" duration="2524000" />
+      <workItem from="1606033796641" duration="62000" />
+      <workItem from="1606062745410" duration="1425000" />
+      <workItem from="1606634459775" duration="51000" />
+      <workItem from="1612080114861" duration="163000" />
+      <workItem from="1613744804882" duration="1099000" />
+      <workItem from="1613912431349" duration="14000" />
+      <workItem from="1615209103542" duration="559000" />
     </task>
     <servers />
   </component>

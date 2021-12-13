@@ -9,7 +9,7 @@ public class Demo2 {
         int m = in.nextInt();
         String [][] nums = new String[m][];
         for (int i = 0; i < m; i++) {
-            nums[i] = in.next().split(" ");
+            nums[i] = in.next().split("");
         }
         int s = in.nextInt();
         int e = in.nextInt();
