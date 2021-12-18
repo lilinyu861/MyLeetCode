@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="73eaa5ea-05c1-4572-b0e2-3dd4d247464a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/LeetCode/src/job/lily/offer/didi/Demo2.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -324,17 +323,12 @@
       <workItem from="1613744804882" duration="1099000" />
       <workItem from="1613912431349" duration="14000" />
       <workItem from="1615209103542" duration="559000" />
+      <workItem from="1639408827258" duration="305000" />
+      <workItem from="1639409142787" duration="214000" />
+      <workItem from="1639409360698" duration="34000" />
+      <workItem from="1639409576148" duration="926000" />
     </task>
     <servers />
-  </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
