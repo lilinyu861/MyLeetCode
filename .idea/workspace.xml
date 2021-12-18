@@ -326,8 +326,16 @@
       <workItem from="1639408827258" duration="305000" />
       <workItem from="1639409142787" duration="214000" />
       <workItem from="1639409360698" duration="34000" />
-      <workItem from="1639409576148" duration="926000" />
+      <workItem from="1639409576148" duration="2994000" />
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <created>1639835216731</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1639835216731</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -345,6 +353,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/MyLeetCode$CanJump.ic" NAME="CanJump Coverage Results" MODIFIED="1587093137951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
